@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CAEL Works</title>
+</head>
+<body>
+  <h1>Hi, welcome to CAEL Works!</h1>
+  <p>Here i will share with you my works</p>
+
+  <h2>My Projects</h2>
+  <ul>
+    <li><a href="https://github.com/caelworks/caelworks">Project 1</a></li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email: workscael@gmail.com</p>
+</body>
+</html>
